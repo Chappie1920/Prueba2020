@@ -1,0 +1,3 @@
+name: ChappieManuel
+age: 35
+favorite color: Red
